@@ -69,3 +69,6 @@
 ![YurgenUA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YurgenUA&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
 
 Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+### 📇 Profile views
+[![Hits](https://u8views.com/api/v1/github/profiles/13351738/views/day-week-month-total-count.svg)](https://u8views.com/github/YurgenUA)
